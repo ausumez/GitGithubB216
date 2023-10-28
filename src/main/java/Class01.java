@@ -12,8 +12,10 @@ public class Class01 {
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandı");
 
-
-
+        //Versiyon 2 için  kodlar
+        int z = 5 ;
+        System.out.println(x+y+z);
+        System.out.println("Versiyon 2 tamamlandı");
 
     }
 
